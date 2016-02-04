@@ -1,0 +1,6 @@
+C:\Users\stanislav\Documents\Visual Studio 2013\Projects\MatrixPrimeNumbers\MatrixPrimeNumbers\bin\Debug\MatrixPrimeNumbers.exe.config
+C:\Users\stanislav\Documents\Visual Studio 2013\Projects\MatrixPrimeNumbers\MatrixPrimeNumbers\bin\Debug\MatrixPrimeNumbers.exe
+C:\Users\stanislav\Documents\Visual Studio 2013\Projects\MatrixPrimeNumbers\MatrixPrimeNumbers\bin\Debug\MatrixPrimeNumbers.pdb
+C:\Users\stanislav\Documents\Visual Studio 2013\Projects\MatrixPrimeNumbers\MatrixPrimeNumbers\obj\Debug\MatrixPrimeNumbers.csprojResolveAssemblyReference.cache
+C:\Users\stanislav\Documents\Visual Studio 2013\Projects\MatrixPrimeNumbers\MatrixPrimeNumbers\obj\Debug\MatrixPrimeNumbers.exe
+C:\Users\stanislav\Documents\Visual Studio 2013\Projects\MatrixPrimeNumbers\MatrixPrimeNumbers\obj\Debug\MatrixPrimeNumbers.pdb
